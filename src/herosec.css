@@ -1,0 +1,16 @@
+.hero-img{
+    margin-top: 150px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* .hero-btn{
+    transition: 0.3s ease;
+}
+.hero-btn:hover{
+    transform: translateY(-5px);
+} */
+

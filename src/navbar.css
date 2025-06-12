@@ -1,0 +1,33 @@
+/* src/components/Navbar.css */
+
+.custom-navbar {
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.75) !important;
+  }
+  
+  .brand-highlight {
+    color: #6f42c1; /* بنفسجي مميز */
+  }
+  
+.nav-link {
+  display: inline-block !important; /* ده أهم تعديل */
+  position: relative;
+  transition: color 0.3s ease;
+  padding: 8px 12px; /* padding مناسب لجميع الشاشات */
+}
+  
+.nav-link::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  left: 0;
+  bottom: 0;
+  background-color: #6f42c1;
+  transition: width 0.3s ease;
+}
+
+.nav-link:hover::after {
+  width: 100%; /* بياخد عرض الكلمة بس دلوقتي */
+}
+  
