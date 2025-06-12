@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio-/static/css/main.caa14f85.css",
+    "main.js": "/My-Portfolio-/static/js/main.194cf4a7.js",
+    "static/media/pro2.PNG": "/My-Portfolio-/static/media/pro2.ba207cd5af85b3293909.PNG",
+    "static/media/pro1.PNG": "/My-Portfolio-/static/media/pro1.bc05b82d31b6b60ac117.PNG",
+    "static/media/fa-solid-900.ttf": "/My-Portfolio-/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/My-Portfolio-/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/My-Portfolio-/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/My-Portfolio-/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/CSS3_logo.svg.png": "/My-Portfolio-/static/media/CSS3_logo.svg.77a0f1f3f834c4d99db7.png",
+    "static/media/pro3.PNG": "/My-Portfolio-/static/media/pro3.c7fefa632177ff8a9fa1.PNG",
+    "static/media/WhatsApp Image 2025-04-26 at 16.47.37_d31e1c8af.jpg": "/My-Portfolio-/static/media/WhatsApp Image 2025-04-26 at 16.47.37_d31e1c8af.b8f29e4a19d1f9705771.jpg",
+    "static/media/fa-regular-400.ttf": "/My-Portfolio-/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/redux-icon-1024x971-2ocv6rm8.png": "/My-Portfolio-/static/media/redux-icon-1024x971-2ocv6rm8.e20af15468aa2a6fe007.png",
+    "static/media/Unofficial_JavaScript_logo_2.svg.png": "/My-Portfolio-/static/media/Unofficial_JavaScript_logo_2.svg.a2a6881dbbacbfe8631f.png",
+    "static/media/pro5.PNG": "/My-Portfolio-/static/media/pro5.79bcd89949e027fe54be.PNG",
+    "static/media/Typescript.svg.png": "/My-Portfolio-/static/media/Typescript.svg.c63b2090d0e0b6595b7e.png",
+    "static/media/fa-regular-400.woff2": "/My-Portfolio-/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/pro4.PNG": "/My-Portfolio-/static/media/pro4.c78d3ea0c25b584a8893.PNG",
+    "static/media/tailwind-css-logo-png_seeklogo-354675.png": "/My-Portfolio-/static/media/tailwind-css-logo-png_seeklogo-354675.ff4327eaba18d635de68.png",
+    "static/media/fa-v4compatibility.ttf": "/My-Portfolio-/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/My-Portfolio-/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/My-Portfolio-/index.html",
+    "main.caa14f85.css.map": "/My-Portfolio-/static/css/main.caa14f85.css.map",
+    "main.194cf4a7.js.map": "/My-Portfolio-/static/js/main.194cf4a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caa14f85.css",
+    "static/js/main.194cf4a7.js"
+  ]
+}
