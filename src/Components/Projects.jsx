@@ -3,6 +3,8 @@ import img2 from "../imgs/pro2.PNG";
 import img3 from "../imgs/pro3.PNG";
 import img4 from "../imgs/pro4.PNG";
 import img5 from "../imgs/pro5.PNG";
+import img6 from "../imgs/pro6.PNG";
+import img7 from "../imgs/pro7.PNG";
 import "../project.css";
 import { motion } from "framer-motion";
 import { useTheme } from "./ThemeContext";
@@ -56,6 +58,20 @@ export default function Projects() {
       live: "https://nada-essam.github.io/To-do-List/",
       code: "https://github.com/Nada-Essam/To-do-List",
       img: img5,
+    },
+       {
+      title: "Shawerma Website",
+      desc: "Shawerma website using React ",
+      live: "https://shawarma-app.vercel.app/",
+      code: "https://github.com/Nada-Essam/shawarma-app",
+      img: img6,
+    },
+        {
+      title: "Movie App",
+      desc: "Movie App using React & Tailwind",
+      live: "https://movieapp123.vercel.app/",
+      code: "https://github.com/Nada-Essam/Movie-App",
+      img: img7,
     },
   ];
 

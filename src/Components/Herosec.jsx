@@ -70,7 +70,7 @@ export default function Herosec() {
           </a>
         </motion.div>
           <motion.a
-            href="/Nada Essam_ Cv.pdf"
+            href="/Nada-Essam-CV.pdf"
             download
             className="btn btn-dark mt-3"
             initial={{ opacity: 0 }}
