@@ -70,7 +70,7 @@ export default function Herosec() {
           </a>
         </motion.div>
           <motion.a
-            href="/Nada-Essam-CV.pdf"
+            href="https://nada-essam.github.io/My-Portfolio-/Nada-Essam-CV.pdf"
             download
             className="btn btn-dark mt-3"
             initial={{ opacity: 0 }}
